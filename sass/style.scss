@@ -1,0 +1,25 @@
+$primaryColour: #54a0ff;
+$width:100vw;
+body{
+  background-color: $primaryColour;
+}
+
+p{
+  // color: white;
+}
+
+div{
+  // color: blue;
+}
+
+#box1{
+  width: 100px;
+  height: 100px;
+  background-color: #2e86de;
+}
+
+#box2{
+  width: $width * 2;
+  height: 100px;
+  background-color: #2e86de;
+}
