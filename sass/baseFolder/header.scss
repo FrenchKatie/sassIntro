@@ -1,0 +1,13 @@
+header{
+  background-color: darken($primaryColour, 20%);
+  nav{
+    ul{
+      list-style: none;
+      text-align: center;
+      li{
+        display: inline-block;
+        color: yellow;
+      }
+    }
+  }
+}
